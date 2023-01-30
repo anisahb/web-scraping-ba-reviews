@@ -3,6 +3,9 @@
 ## Introduction
 Scraping and analysing customer review data to uncover findings for British Airways. In this notebook, we will scrape reviews on British Airways from the Skytrax website, clean the collected data, and perform data analyses on it. We will use techniques such as topic modelling and sentiment analysis to uncover insights about what customers find important when flying with British Airways.
 
+## Data source:
+https://www.airlinequality.com/airline-reviews/british-airway
+
 ## Packages used: 
 `requests`
 `BeautifulSoup` 
